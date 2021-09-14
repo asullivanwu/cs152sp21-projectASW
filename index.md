@@ -16,3 +16,4 @@ In order to use image classification well, I would have to provide the program w
 3. Train a Neural Network to recgonize when words end and begin
 4. Map recgonized letters and punctuatuon to electronic text output 
 5. Test the program against different writing samples
+ 
